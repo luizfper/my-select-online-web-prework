@@ -6,4 +6,5 @@ def my_select(collection)
       selected<<collection[i]
     end
   end
+  selected
 end
