@@ -5,6 +5,6 @@ def my_select(collection)
     if yield (collection[i])
       selected<<collection[i]
     end
-  end 
+  end
  end
 end
